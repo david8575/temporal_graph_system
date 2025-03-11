@@ -1,5 +1,5 @@
-from src.data_loader import load_data
-from src.temporal_graph import TemporalGraph
+from data_loader import load_data
+from temporal_graph import TemporalGraph
 
 def main():
     file_path = '../temporal_graph/data/edges.csv'
