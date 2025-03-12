@@ -1,3 +1,7 @@
+# Temporal Graph
+## 프로젝트 구조
+
+```plaintext
 temporal_graph_project/
 ├── backend/          # FastAPI 백엔드
 │   ├── fastapi/      # FastAPI 관련 코드 저장
