@@ -1,6 +1,9 @@
-# Temporal Graph
-## 프로젝트 구조
+# 🖥️ Temporal Graph
 
+## 프로젝트 개요
+FastAPI + Nest.js + React + D3.js를 활용한 그래프 시각화 시스템
+
+## 프로젝트 폴더 구조
 ```plaintext
 temporal_graph_project/
 ├── backend/          # FastAPI 백엔드
