@@ -1,0 +1,25 @@
+# Backend
+backend/node_modules/
+backend/.env
+backend/dist/
+backend/__pycache__/
+backend/*.pyc
+
+# Frontend
+frontend/node_modules/
+frontend/.env
+frontend/build/
+frontend/dist/
+
+# OS
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo 
